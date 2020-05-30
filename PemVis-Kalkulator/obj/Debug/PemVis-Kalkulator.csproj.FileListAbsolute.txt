@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\PemVis-Kalkulator\PemVis-Kalkulator\bin\Debug\PemVis-Kalkulator.exe.config
+C:\Users\User\source\repos\PemVis-Kalkulator\PemVis-Kalkulator\bin\Debug\PemVis-Kalkulator.exe
+C:\Users\User\source\repos\PemVis-Kalkulator\PemVis-Kalkulator\bin\Debug\PemVis-Kalkulator.pdb
+C:\Users\User\source\repos\PemVis-Kalkulator\PemVis-Kalkulator\obj\Debug\PemVis_Kalkulator.Form1.resources
+C:\Users\User\source\repos\PemVis-Kalkulator\PemVis-Kalkulator\obj\Debug\PemVis_Kalkulator.Properties.Resources.resources
+C:\Users\User\source\repos\PemVis-Kalkulator\PemVis-Kalkulator\obj\Debug\PemVis-Kalkulator.csproj.GenerateResource.cache
+C:\Users\User\source\repos\PemVis-Kalkulator\PemVis-Kalkulator\obj\Debug\PemVis-Kalkulator.exe
+C:\Users\User\source\repos\PemVis-Kalkulator\PemVis-Kalkulator\obj\Debug\PemVis-Kalkulator.pdb
+C:\Users\User\source\repos\PemVis-Kalkulator\PemVis-Kalkulator\obj\Debug\PemVis-Kalkulator.csprojAssemblyReference.cache
